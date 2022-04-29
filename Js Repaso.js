@@ -186,6 +186,7 @@ y se espera y listo, se actualizan los cambios en la rama creada en el repositor
 
 LISTO*
 
-ESTOY APRENDIENDO A USAR GIT !!!!!!!!!!!!!!!!!!/
+ESTOY APRENDIENDO A USAR GIT !!!!!!!!!!!!!!!!!!*/
+
 
 
