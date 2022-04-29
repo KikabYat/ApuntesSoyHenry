@@ -158,6 +158,31 @@ error en VisualStudioCode, pero cuando los ejecute en el navegador directamente,
 consola del navegador si me arrojo los resultados para Hola() de Toni, y darLugar(): El Estor. QUE 
 RARO. revisar detenidamente despúes*/
 
-/*29-04-2022 */
+/*29-04-2022  GIT-*/
+/*Algo que no sabía y me estaba complicando, cuando se trabaja con ramas,
+es decir, cuando se trabaja localmente con Ramas, primero lo que se hace es crear una rama 
+a nivel local:
+git branch NombreDeLaRama
+git checkout -b NombreDeLaRama
+
+Luego de esto se manda un push con el nombre de la Rama a nuestro repositorio de GitHUB
+por ejemplo:
+
+git push NombreDeLaRama****
+
+se espera y listo se revisa en nuestro repositorio de GitHub
+
+luego de esto, si se hicieran mas cambios localmente, en la rama nueva, que estamos
+trabajando localmente (NombreDeLaRama), se guardan los cambios localmente, en primer
+lugar, con git status, git add, y git commit, y luego
+lo que se hace para pasar esos cambios a GitHub, se escribe este comando:
+
+Git push origin NombreDeLaRama
+
+enter
+
+y se espera y listo, se actualizan los cambios en la rama creada en el repositorio de GitHub
+
+LISTO*/
 
 
