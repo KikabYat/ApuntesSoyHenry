@@ -158,4 +158,6 @@ error en VisualStudioCode, pero cuando los ejecute en el navegador directamente,
 consola del navegador si me arrojo los resultados para Hola() de Toni, y darLugar(): El Estor. QUE 
 RARO. revisar detenidamente despúes*/
 
+/*29-04-2022 */
+
 
