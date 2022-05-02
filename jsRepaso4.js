@@ -19,3 +19,4 @@ pudo usar el console.log, mostrando el contenido de la variable verResiduo.*/
 
 console.log(verResiduo);
 
+//ya estoy aprendiendo mas programacio, jejeje
